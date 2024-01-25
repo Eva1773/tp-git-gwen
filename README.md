@@ -1,6 +1,11 @@
 
 # Mon site pour mon portfolio
 
+## CHANGELOG
+
+## Version 4: Ajout d'une nouvelle page
+## Version 3 : Modification du titre 
+
 ## Pour le cloner 
 
 ```sh

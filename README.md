@@ -2,7 +2,7 @@
 # Mon site pour mon portfolio
 
 ## CHANGELOG
-
+## Version 5 : Ajout d'une nouvelle page avec sudo
 ## Version 4: Ajout d'une nouvelle page
 ## Version 3 : Modification du titre 
 
